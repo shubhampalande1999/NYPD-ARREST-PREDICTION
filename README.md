@@ -10,9 +10,7 @@ Project Highlights:
 The attributes is displayed below:
 
 Variable Names - Variable Information
-
 ARREST_KEY - Unique ID for each arrest
-
 ARREST_DATE -	Date of the arrest event
 PD_CD	Internal - classification code for the offense
 PD_DESC -	Description of the offense corresponding to PD code
